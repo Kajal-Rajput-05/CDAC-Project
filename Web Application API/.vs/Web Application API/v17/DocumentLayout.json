@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BUY\\Web Application API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|d:\\buy\\web application api\\web application api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|solutionrelative:web application api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|d:\\buy\\web application api\\web application api\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|solutionrelative:web application api\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|d:\\buy\\web application api\\web application api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|solutionrelative:web application api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|d:\\buy\\web application api\\web application api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|solutionrelative:web application api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|d:\\buy\\web application api\\web application api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|solutionrelative:web application api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|d:\\buy\\web application api\\application.repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|solutionrelative:application.repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6532714-B168-427D-95D4-07CF50209B96}|Application.Domain\\Application.Domain.csproj|d:\\buy\\web application api\\application.domain\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6532714-B168-427D-95D4-07CF50209B96}|Application.Domain\\Application.Domain.csproj|solutionrelative:application.domain\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6532714-B168-427D-95D4-07CF50209B96}|Application.Domain\\Application.Domain.csproj|d:\\buy\\web application api\\application.domain\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6532714-B168-427D-95D4-07CF50209B96}|Application.Domain\\Application.Domain.csproj|solutionrelative:application.domain\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|d:\\buy\\web application api\\web application api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F99B30-C5C9-4F6A-90B7-AA088F61B5F5}|Web Application API\\Web Application API.csproj|solutionrelative:web application api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|d:\\buy\\web application api\\application.repository\\infrastructure\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|solutionrelative:application.repository\\infrastructure\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|d:\\buy\\web application api\\application.repository\\infrastructure\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|solutionrelative:application.repository\\infrastructure\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|d:\\buy\\web application api\\application.repository\\infrastructure\\iartistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|solutionrelative:application.repository\\infrastructure\\iartistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|d:\\buy\\web application api\\application.repository\\infrastructure\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|solutionrelative:application.repository\\infrastructure\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|d:\\buy\\web application api\\application.repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|solutionrelative:application.repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6532714-B168-427D-95D4-07CF50209B96}|Application.Domain\\Application.Domain.csproj|d:\\buy\\web application api\\application.domain\\signinresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6532714-B168-427D-95D4-07CF50209B96}|Application.Domain\\Application.Domain.csproj|solutionrelative:application.domain\\signinresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|d:\\buy\\web application api\\application.repository\\artistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A2A7272-6928-45EE-9603-9C117B33897D}|Application.Repository\\Application.Repository.csproj|solutionrelative:application.repository\\artistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139B04CE-7B59-44D7-8724-E5331A289F56}|Application.Service\\Application.Service.csproj|d:\\buy\\web application api\\application.service\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139B04CE-7B59-44D7-8724-E5331A289F56}|Application.Service\\Application.Service.csproj|solutionrelative:application.service\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139B04CE-7B59-44D7-8724-E5331A289F56}|Application.Service\\Application.Service.csproj|d:\\buy\\web application api\\application.service\\infrastructure\\iartistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139B04CE-7B59-44D7-8724-E5331A289F56}|Application.Service\\Application.Service.csproj|solutionrelative:application.service\\infrastructure\\iartistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 285,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Web Application API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Web Application API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Web Application API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Web Application API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:15:22.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Web Application API\\Program.cs",
+              "RelativeDocumentMoniker": "Web Application API\\Program.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Web Application API\\Program.cs",
+              "RelativeToolTip": "Web Application API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:14:11.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Application.Domain\\Event.cs",
+              "RelativeDocumentMoniker": "Application.Domain\\Event.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Application.Domain\\Event.cs",
+              "RelativeToolTip": "Application.Domain\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:36:47.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Application.Domain\\Booking.cs",
+              "RelativeDocumentMoniker": "Application.Domain\\Booking.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Application.Domain\\Booking.cs",
+              "RelativeToolTip": "Application.Domain\\Booking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:36:30.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Application.Repository\\Infrastructure\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Application.Repository\\Infrastructure\\IAuthRepository.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Application.Repository\\Infrastructure\\IAuthRepository.cs",
+              "RelativeToolTip": "Application.Repository\\Infrastructure\\IAuthRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:35:45.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Application.Repository\\Infrastructure\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "Application.Repository\\Infrastructure\\IAdminRepository.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Application.Repository\\Infrastructure\\IAdminRepository.cs",
+              "RelativeToolTip": "Application.Repository\\Infrastructure\\IAdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:35:33.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Application.Repository\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "Application.Repository\\AdminRepository.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Application.Repository\\AdminRepository.cs",
+              "RelativeToolTip": "Application.Repository\\AdminRepository.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:16:15.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Web Application API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Web Application API\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Web Application API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Web Application API\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:15:05.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Web Application API\\appsettings.json",
+              "RelativeDocumentMoniker": "Web Application API\\appsettings.json",
+              "ToolTip": "D:\\BUY\\Web Application API\\Web Application API\\appsettings.json",
+              "RelativeToolTip": "Web Application API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-18T11:09:30.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Application.Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Application.Repository\\CustomerRepository.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Application.Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "Application.Repository\\CustomerRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAcwEgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:09:30.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SignInResponse.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Application.Domain\\SignInResponse.cs",
+              "RelativeDocumentMoniker": "Application.Domain\\SignInResponse.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Application.Domain\\SignInResponse.cs",
+              "RelativeToolTip": "Application.Domain\\SignInResponse.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA8wCUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:09:30.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArtistRepository.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Application.Repository\\ArtistRepository.cs",
+              "RelativeDocumentMoniker": "Application.Repository\\ArtistRepository.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Application.Repository\\ArtistRepository.cs",
+              "RelativeToolTip": "Application.Repository\\ArtistRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:09:30.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ArtistService.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Application.Service\\ArtistService.cs",
+              "RelativeDocumentMoniker": "Application.Service\\ArtistService.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Application.Service\\ArtistService.cs",
+              "RelativeToolTip": "Application.Service\\ArtistService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:09:30.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IArtistRepository.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Application.Repository\\Infrastructure\\IArtistRepository.cs",
+              "RelativeDocumentMoniker": "Application.Repository\\Infrastructure\\IArtistRepository.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Application.Repository\\Infrastructure\\IArtistRepository.cs",
+              "RelativeToolTip": "Application.Repository\\Infrastructure\\IArtistRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:09:30.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Application.Repository\\Infrastructure\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Application.Repository\\Infrastructure\\ICustomerRepository.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Application.Repository\\Infrastructure\\ICustomerRepository.cs",
+              "RelativeToolTip": "Application.Repository\\Infrastructure\\ICustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:09:30.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IArtistService.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Application.Service\\Infrastructure\\IArtistService.cs",
+              "RelativeDocumentMoniker": "Application.Service\\Infrastructure\\IArtistService.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Application.Service\\Infrastructure\\IArtistService.cs",
+              "RelativeToolTip": "Application.Service\\Infrastructure\\IArtistService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:09:30.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtistController.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Web Application API\\Controllers\\ArtistController.cs",
+              "RelativeDocumentMoniker": "Web Application API\\Controllers\\ArtistController.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Web Application API\\Controllers\\ArtistController.cs",
+              "RelativeToolTip": "Web Application API\\Controllers\\ArtistController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAmwGUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:09:30.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\BUY\\Web Application API\\Web Application API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Web Application API\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\BUY\\Web Application API\\Web Application API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Web Application API\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwGYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T11:09:30.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

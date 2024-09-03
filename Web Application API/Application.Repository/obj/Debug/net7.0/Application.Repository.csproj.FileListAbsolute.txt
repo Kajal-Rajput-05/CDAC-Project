@@ -1,0 +1,34 @@
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\bin\Debug\net7.0\Application.Repository.deps.json
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\bin\Debug\net7.0\Application.Repository.runtimeconfig.json
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\bin\Debug\net7.0\Application.Repository.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\bin\Debug\net7.0\Application.Repository.pdb
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\bin\Debug\net7.0\Application.Domain.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\bin\Debug\net7.0\Application.Domain.pdb
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.csproj.AssemblyReference.cache
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.AssemblyInfoInputs.cache
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.AssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.csproj.CoreCompileInputs.cache
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.csproj.CopyComplete
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\obj\Debug\net7.0\refint\Application.Repository.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.pdb
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Repository\obj\Debug\net7.0\ref\Application.Repository.dll
+D:\BUY\Web Application API\Application.Repository\bin\Debug\net7.0\Application.Repository.deps.json
+D:\BUY\Web Application API\Application.Repository\bin\Debug\net7.0\Application.Repository.runtimeconfig.json
+D:\BUY\Web Application API\Application.Repository\bin\Debug\net7.0\Application.Repository.dll
+D:\BUY\Web Application API\Application.Repository\bin\Debug\net7.0\Application.Repository.pdb
+D:\BUY\Web Application API\Application.Repository\bin\Debug\net7.0\Application.Domain.dll
+D:\BUY\Web Application API\Application.Repository\bin\Debug\net7.0\Application.Domain.pdb
+D:\BUY\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.csproj.AssemblyReference.cache
+D:\BUY\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\BUY\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.AssemblyInfoInputs.cache
+D:\BUY\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.AssemblyInfo.cs
+D:\BUY\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.csproj.CoreCompileInputs.cache
+D:\BUY\Web Application API\Application.Repository\obj\Debug\net7.0\Applicat.32FAB035.Up2Date
+D:\BUY\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.dll
+D:\BUY\Web Application API\Application.Repository\obj\Debug\net7.0\refint\Application.Repository.dll
+D:\BUY\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.pdb
+D:\BUY\Web Application API\Application.Repository\obj\Debug\net7.0\Application.Repository.genruntimeconfig.cache
+D:\BUY\Web Application API\Application.Repository\obj\Debug\net7.0\ref\Application.Repository.dll

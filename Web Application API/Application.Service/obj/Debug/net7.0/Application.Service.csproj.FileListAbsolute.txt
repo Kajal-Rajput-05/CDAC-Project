@@ -1,0 +1,34 @@
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\bin\Debug\net7.0\Application.Service.deps.json
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\bin\Debug\net7.0\Application.Service.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\bin\Debug\net7.0\Application.Service.pdb
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\bin\Debug\net7.0\Application.Domain.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\bin\Debug\net7.0\Application.Repository.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\bin\Debug\net7.0\Application.Domain.pdb
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\bin\Debug\net7.0\Application.Repository.pdb
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\obj\Debug\net7.0\Application.Service.csproj.AssemblyReference.cache
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\obj\Debug\net7.0\Application.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\obj\Debug\net7.0\Application.Service.AssemblyInfoInputs.cache
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\obj\Debug\net7.0\Application.Service.AssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\obj\Debug\net7.0\Application.Service.csproj.CoreCompileInputs.cache
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\obj\Debug\net7.0\Application.Service.csproj.CopyComplete
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\obj\Debug\net7.0\Application.Service.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\obj\Debug\net7.0\refint\Application.Service.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\obj\Debug\net7.0\Application.Service.pdb
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Service\obj\Debug\net7.0\ref\Application.Service.dll
+D:\BUY\Web Application API\Application.Service\bin\Debug\net7.0\Application.Service.deps.json
+D:\BUY\Web Application API\Application.Service\bin\Debug\net7.0\Application.Service.dll
+D:\BUY\Web Application API\Application.Service\bin\Debug\net7.0\Application.Service.pdb
+D:\BUY\Web Application API\Application.Service\bin\Debug\net7.0\Application.Domain.dll
+D:\BUY\Web Application API\Application.Service\bin\Debug\net7.0\Application.Repository.dll
+D:\BUY\Web Application API\Application.Service\bin\Debug\net7.0\Application.Domain.pdb
+D:\BUY\Web Application API\Application.Service\bin\Debug\net7.0\Application.Repository.pdb
+D:\BUY\Web Application API\Application.Service\obj\Debug\net7.0\Application.Service.csproj.AssemblyReference.cache
+D:\BUY\Web Application API\Application.Service\obj\Debug\net7.0\Application.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\BUY\Web Application API\Application.Service\obj\Debug\net7.0\Application.Service.AssemblyInfoInputs.cache
+D:\BUY\Web Application API\Application.Service\obj\Debug\net7.0\Application.Service.AssemblyInfo.cs
+D:\BUY\Web Application API\Application.Service\obj\Debug\net7.0\Application.Service.csproj.CoreCompileInputs.cache
+D:\BUY\Web Application API\Application.Service\obj\Debug\net7.0\Applicat.4A2B0D53.Up2Date
+D:\BUY\Web Application API\Application.Service\obj\Debug\net7.0\Application.Service.dll
+D:\BUY\Web Application API\Application.Service\obj\Debug\net7.0\refint\Application.Service.dll
+D:\BUY\Web Application API\Application.Service\obj\Debug\net7.0\Application.Service.pdb
+D:\BUY\Web Application API\Application.Service\obj\Debug\net7.0\ref\Application.Service.dll

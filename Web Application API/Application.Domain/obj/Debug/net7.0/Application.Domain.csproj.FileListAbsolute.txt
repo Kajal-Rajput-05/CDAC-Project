@@ -1,0 +1,28 @@
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Domain\bin\Debug\net7.0\Application.Domain.deps.json
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Domain\bin\Debug\net7.0\Application.Domain.runtimeconfig.json
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Domain\bin\Debug\net7.0\Application.Domain.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Domain\bin\Debug\net7.0\Application.Domain.pdb
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Domain\obj\Debug\net7.0\Application.Domain.csproj.AssemblyReference.cache
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Domain\obj\Debug\net7.0\Application.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Domain\obj\Debug\net7.0\Application.Domain.AssemblyInfoInputs.cache
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Domain\obj\Debug\net7.0\Application.Domain.AssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Domain\obj\Debug\net7.0\Application.Domain.csproj.CoreCompileInputs.cache
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Domain\obj\Debug\net7.0\Application.Domain.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Domain\obj\Debug\net7.0\refint\Application.Domain.dll
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Domain\obj\Debug\net7.0\Application.Domain.pdb
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Domain\obj\Debug\net7.0\Application.Domain.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\P\Concert Hub\Web Application API\Application.Domain\obj\Debug\net7.0\ref\Application.Domain.dll
+D:\BUY\Web Application API\Application.Domain\bin\Debug\net7.0\Application.Domain.deps.json
+D:\BUY\Web Application API\Application.Domain\bin\Debug\net7.0\Application.Domain.runtimeconfig.json
+D:\BUY\Web Application API\Application.Domain\bin\Debug\net7.0\Application.Domain.dll
+D:\BUY\Web Application API\Application.Domain\bin\Debug\net7.0\Application.Domain.pdb
+D:\BUY\Web Application API\Application.Domain\obj\Debug\net7.0\Application.Domain.csproj.AssemblyReference.cache
+D:\BUY\Web Application API\Application.Domain\obj\Debug\net7.0\Application.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BUY\Web Application API\Application.Domain\obj\Debug\net7.0\Application.Domain.AssemblyInfoInputs.cache
+D:\BUY\Web Application API\Application.Domain\obj\Debug\net7.0\Application.Domain.AssemblyInfo.cs
+D:\BUY\Web Application API\Application.Domain\obj\Debug\net7.0\Application.Domain.csproj.CoreCompileInputs.cache
+D:\BUY\Web Application API\Application.Domain\obj\Debug\net7.0\Application.Domain.dll
+D:\BUY\Web Application API\Application.Domain\obj\Debug\net7.0\refint\Application.Domain.dll
+D:\BUY\Web Application API\Application.Domain\obj\Debug\net7.0\Application.Domain.pdb
+D:\BUY\Web Application API\Application.Domain\obj\Debug\net7.0\Application.Domain.genruntimeconfig.cache
+D:\BUY\Web Application API\Application.Domain\obj\Debug\net7.0\ref\Application.Domain.dll
