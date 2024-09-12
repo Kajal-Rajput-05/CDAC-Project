@@ -48,8 +48,8 @@ var securityReq = new OpenApiSecurityRequirement()
 
 var contact = new OpenApiContact()
 {
-    Name = "Vishal Waman",
-    Email = "vishalpwaman123@gmail.com",
+    Name = "Kajal Rajput",
+    Email = "krajput0511@gmail.com",
     Url = new Uri("http://www.google.com")
 };
 
